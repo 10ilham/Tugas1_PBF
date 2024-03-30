@@ -1,6 +1,7 @@
 # Ilham Munawar_220102037
 
-![Logo](https://file.notion.so/f/f/c8e21fd1-aa93-4db3-9ae0-6b3890a71ba5/529a07c0-8417-4ba6-85e7-b1cd79fe04a1/Desain_tanpa_judul.gif?id=9d3581c3-d794-4de8-b213-2c6168bc0148&table=block&spaceId=c8e21fd1-aa93-4db3-9ae0-6b3890a71ba5&expirationTimestamp=1710849600000&signature=QNjE8lNpesC9DTZaEfoIruSEOOLkPqF32nEsc6a2c78)
+![Desain tanpa judul](https://github.com/10ilham/Tugas1_PBF/assets/128197332/2ae50ba3-706c-4e45-83bf-281fd48a5888)
+
 
 [Penjelasan lebih lengkap tentang project saya, Klik disini](https://responsible-fact-6d4.notion.site/Installation-2e27d7f5103e420f96b0bd21445d2eb2?pvs=4)
 
